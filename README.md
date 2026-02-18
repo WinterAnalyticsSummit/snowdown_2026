@@ -8,10 +8,10 @@ This dataset contains operational, transactional, and customer activity data fro
 
 The objective of this dataset is to analyze:
 
-•	Customer behavior
-•	Membership value and profitability
-•	Discount campaign impact
-•	Lift utilization patterns
+•	Customer behavior <br>
+•	Membership value and profitability <br>
+•	Discount campaign impact <br>
+•	Lift utilization patterns <br>
 •	Revenue performance across rentals, lift tickets, and cafés
 
 The dataset includes both financial transaction tables and a non-financial lift usage log.
