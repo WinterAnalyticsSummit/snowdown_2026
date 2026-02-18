@@ -5,21 +5,26 @@ Dataset Documentation – Winter Season 2024–2025
 ________________________________________
 1. Overview
 This dataset contains operational, transactional, and customer activity data from a ski resort during the 2024–2025 winter season.
+
 The objective of this dataset is to analyze:
+
 •	Customer behavior
 •	Membership value and profitability
 •	Discount campaign impact
 •	Lift utilization patterns
 •	Revenue performance across rentals, lift tickets, and cafés
+
 The dataset includes both financial transaction tables and a non-financial lift usage log.
+
 The resort operates seasonally from:
 October 1st through March 31st
+
 All data in this competition falls within that operating window for the 2024–2025 winter season.
 ________________________________________
 2. Membership Program
 Customers may purchase a Season Membership (Season Pass).
 Membership Details
-•	Cost: $2,000 per season
+Cost: $2,000 per season
 •	Benefits:
 o	Unlimited lift access (no per-ride charge)
 o	15% discount on:
